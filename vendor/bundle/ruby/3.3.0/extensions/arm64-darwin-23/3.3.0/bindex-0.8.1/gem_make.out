@@ -1,0 +1,18 @@
+current directory: /Users/n-syuichi/projects/ChatApp/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/n-syuichi/.anyenv/envs/rbenv/versions/3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/n-syuichi/projects/ChatApp/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240601-8288-jyrncd sitelibdir\=./.gem.20240601-8288-jyrncd clean
+
+current directory: /Users/n-syuichi/projects/ChatApp/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240601-8288-jyrncd sitelibdir\=./.gem.20240601-8288-jyrncd
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/n-syuichi/projects/ChatApp/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240601-8288-jyrncd sitelibdir\=./.gem.20240601-8288-jyrncd install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20240601-8288-jyrncd/skiptrace/internal
+
+current directory: /Users/n-syuichi/projects/ChatApp/vendor/bundle/ruby/3.3.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20240601-8288-jyrncd sitelibdir\=./.gem.20240601-8288-jyrncd clean

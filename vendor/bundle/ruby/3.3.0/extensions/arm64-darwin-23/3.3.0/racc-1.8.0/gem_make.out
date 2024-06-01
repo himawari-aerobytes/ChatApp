@@ -1,0 +1,18 @@
+current directory: /Users/n-syuichi/projects/ChatApp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+/Users/n-syuichi/.anyenv/envs/rbenv/versions/3.3.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/n-syuichi/projects/ChatApp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240601-8288-cnmp49 sitelibdir\=./.gem.20240601-8288-cnmp49 clean
+
+current directory: /Users/n-syuichi/projects/ChatApp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240601-8288-cnmp49 sitelibdir\=./.gem.20240601-8288-cnmp49
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/n-syuichi/projects/ChatApp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240601-8288-cnmp49 sitelibdir\=./.gem.20240601-8288-cnmp49 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240601-8288-cnmp49/racc
+
+current directory: /Users/n-syuichi/projects/ChatApp/vendor/bundle/ruby/3.3.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240601-8288-cnmp49 sitelibdir\=./.gem.20240601-8288-cnmp49 clean
